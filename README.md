@@ -1,2 +1,2 @@
 # Exercicio5
-Exercicio pra inverter uma string.
+Exercício pra inverter uma string.
